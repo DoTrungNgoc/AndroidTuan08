@@ -8,7 +8,9 @@
         <entry key="..\:/ANDROID/School/AndroidTuan08TH/app/src/main/res/drawable/bg_circle.xml" value="0.2203125" />
         <entry key="..\:/ANDROID/School/AndroidTuan08TH/app/src/main/res/drawable/bg_signin.xml" value="0.2203125" />
         <entry key="..\:/ANDROID/School/AndroidTuan08TH/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/ANDROID/School/AndroidTuan08TH/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
+        <entry key="..\:/ANDROID/School/AndroidTuan08TH/app/src/main/res/layout/activity_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/ANDROID/School/AndroidTuan08TH/app/src/main/res/layout/activity_sign_in.xml" value="0.15" />
+        <entry key="..\:/ANDROID/School/AndroidTuan08TH/app/src/main/res/layout/dialog.xml" value="0.17" />
       </map>
     </option>
   </component>
